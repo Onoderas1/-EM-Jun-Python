@@ -20,4 +20,4 @@
 1. **Запуск приложения**:
 
    ```bash
-   python script_name.py
+   python main.py
